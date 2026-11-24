@@ -1,0 +1,18 @@
+# Core deep learning (tensorflow_addons requires TF < 2.16)
+tensorflow>=2.10,<2.16
+
+# Data / ML utilities
+numpy
+scikit-learn
+
+# Visualisation
+matplotlib
+seaborn
+opencv-python
+
+# Optional: only used in the augmentation demo cells (deprecated package)
+tensorflow-addons
+
+# Notebook
+jupyter
+ipykernel
